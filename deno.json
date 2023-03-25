@@ -1,0 +1,8 @@
+{
+    "importMap": "./importMap.json",
+    "lint": {
+        "rules": {
+            "exclude": ["deno-lint-ignore-file", "no-window-prefix"]
+        }
+    }
+}

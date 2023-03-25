@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "three": "https://unpkg.com/three@0.150.1/build/three.module.js",
+        "three/addons/": "https://unpkg.com/three@0.150.1/examples/jsm/",
+        "base64": "https://esm.sh/js-base64@3.7.5"
+    }
+}
